@@ -1,4 +1,4 @@
-     # SPRUCE TRAVELS
+SPRUCE TRAVELS
 
 A website to book hotels from anywhere.
 
